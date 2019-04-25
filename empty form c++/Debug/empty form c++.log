@@ -1,5 +1,11 @@
-﻿  MyForm.cpp
-c:\users\aliem\desktop\kelime tahmini\empty form c++\myform.h(358): warning C4677: 'game1': signature of non-private member contains assembly private type 'WordPrediction'
-  c:\users\aliem\desktop\kelime tahmini\empty form c++\wordprediction.h(5): note: see declaration of 'WordPrediction'
+﻿  kelime.cpp
+d:\dev\c++\kelime tahmini\empty form c++\kelime.cpp(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  MyForm.cpp
+d:\dev\c++\kelime tahmini\empty form c++\myform.h(358): warning C4677: 'game1': signature of non-private member contains assembly private type 'WordPrediction'
+  d:\dev\c++\kelime tahmini\empty form c++\wordprediction.h(5): note: see declaration of 'WordPrediction'
+  WordPrediction.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
   kelime.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  empty form c++.vcxproj -> C:\Users\aliem\Desktop\kelime tahmini\Debug\empty form c++.exe
+  empty form c++.vcxproj -> D:\dev\C++\kelime tahmini\Debug\Word Prediction.exe
